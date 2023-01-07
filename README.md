@@ -7,7 +7,7 @@ In this repo you will find the code of the data wrapping and model building that
 - Fill in this [Google Formular](https://docs.google.com/forms/d/e/1FAIpQLSdo53CFJ-1bDjrQKzy8q9vyhmqBXLrmvyiFJ1Lz45SrNOYYgg/viewform?usp=sf_link) and save the csv you recieved via email into 
     > /csv-data 
 
-- Run (navigate to project folder in terminal and execute `python filename.py` )
+- Run
     > suggest_me.py
 
 <br>
@@ -16,3 +16,5 @@ In this repo you will find the code of the data wrapping and model building that
 Model build with [StackOverflow survey 2022](https://insights.stackoverflow.com/survey?_ga=2.7822198.535832738.1670042348-527471563.1670042348)
 
 Explore the data on [Tableau Public](https://public.tableau.com/app/profile/max.b.hm/viz/mid_proj/ProjectSlides)
+
+Running Python Apps: `python filename.py` in your terminal (be in the right directory!)
