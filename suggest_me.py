@@ -62,5 +62,9 @@ data['ConvertedCompYearly'] = scaler_comp.transform(pd.DataFrame(data['Converted
 # concat with numerical
 treated = pd.concat([data.select_dtypes(include=np.number), cats], axis=1)
 
-predictions = pd.DataFrame(LR2.predict(treated))[1:]
-print('My Suggestion based on your answers: ', predictions.values[0][0])
+predictions = pd.DataFrame(LR2.predict(treated))[1:].values[0][0]
+print()
+print()
+print('My Suggestion based on your answers: ', predictions.upper())
+print()
+print()
