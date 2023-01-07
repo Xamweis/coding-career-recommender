@@ -2,11 +2,13 @@
 
 In this repo you will find the code of the data wrapping and model building that suggests an IT-career path depending on <b>skills, tools, salary and much more</b>.
 
-Fill in this [Google Formular](https://docs.google.com/forms/d/e/1FAIpQLSdo53CFJ-1bDjrQKzy8q9vyhmqBXLrmvyiFJ1Lz45SrNOYYgg/viewform?usp=sf_link) and save the csv you recieved via email into 
-> /csv-data 
+### How-To:
+- Clone the repo onto your local machine
+- Fill in this [Google Formular](https://docs.google.com/forms/d/e/1FAIpQLSdo53CFJ-1bDjrQKzy8q9vyhmqBXLrmvyiFJ1Lz45SrNOYYgg/viewform?usp=sf_link) and save the csv you recieved via email into 
+    > /csv-data 
 
-and run 
-> SUGGESTOR.ipynb
+- run 
+    > SUGGESTOR.ipynb
 
 <br>
 <br>
