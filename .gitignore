@@ -2,6 +2,7 @@ data/
 survey_results_public.csv
 csv-data/rudi.csv
 csv-data/treated.csv
+csv-data/response.csv
 csv-data/IRONHACK*
 *.pdf
 SUGGESTOR.ipynb
