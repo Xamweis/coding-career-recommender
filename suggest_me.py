@@ -28,7 +28,7 @@ LR2 = pickle.load(open('models/LR2.sav', 'rb'))
 scaler_years = pickle.load(open('scaler/YearsCode.sav', 'rb'))
 scaler_comp = pickle.load(open('scaler/ConvertedCompYearly.sav', 'rb'))
 
-dummy = pd.read_csv('csv-data/dummy.csv').drop(['Zeitstempel'], axis=1)
+dummy = pd.read_csv('csv-data/dummy.csv')
 dummy = dummy.rename({
     'How many years of coding experience do you have?':'YearsCode',
     'Which annual salary do you approx. want in dollars? ':'ConvertedCompYearly'
