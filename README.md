@@ -7,7 +7,7 @@ In this repo you will find the code of the data wrapping and model building that
 - Fill in this [Google Formular](https://docs.google.com/forms/d/e/1FAIpQLSdo53CFJ-1bDjrQKzy8q9vyhmqBXLrmvyiFJ1Lz45SrNOYYgg/viewform?usp=sf_link) and save the csv you recieved via email into 
     > /csv-data 
 
-- Run 
+- Run (navigate to project folder in terminal and execute `python filename.py` )
     > suggest_me.py
 
 <br>
