@@ -6,7 +6,7 @@ Fill in this [Google Formular](https://docs.google.com/forms/d/e/1FAIpQLSdo53CFJ
 > /csv-data 
 
 and run 
-> SUGGESTOR.ipynb
+> suggest_me.py
 
 <br>
 <br>
