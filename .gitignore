@@ -6,3 +6,5 @@ csv-data/response.csv
 csv-data/IRONHACK*
 *.pdf
 SUGGESTOR.ipynb
+MLP*
+KNN*
